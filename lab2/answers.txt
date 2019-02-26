@@ -1,0 +1,1 @@
+16,384 threads can be simultaneously scheduled for execution. There are 8 multiprocessors on this GPU and we have 1024 active threads per multiprocessor. Thus, there can be 1024*8 = 16,384 threads scheduled simultaneously.
